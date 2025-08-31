@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "MODES-TR"
+title                    : "About PI"
 title_separator          : "-"
 name                     : &name "Xiaotong Sun"
 description              : &description "personal description"
