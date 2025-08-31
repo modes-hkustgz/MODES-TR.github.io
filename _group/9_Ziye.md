@@ -18,4 +18,4 @@ first_position: "Researcher"
 **Research Interests**: Transportation Simulation, Urban Air Mobility.  
 **Bio**: Ziye Guo obtained a Bachelor's degree in Information Systems from Beihang University of Post and Telecommunication. His research interests focus on low-altitude economy and urban dynamics, with an emphasis on urban air mobility (UAM), airspace capacity analysis, and multi-agent systems. 
 
-![Ziye Guo](../images/photos/Ziye.png)
+#![Ziye Guo](../images/photos/Ziye.png)
