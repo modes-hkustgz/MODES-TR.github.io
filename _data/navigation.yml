@@ -5,17 +5,14 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Group"  
-    url: /group/    
+  - title: "Group"
+    url: /group/
 
   - title: "Updates"
-    url: /updates/   
-    
-  - title: "Experience"
-    url: /experience/
-        
+    url: /updates/
+
+  - title: "Publication"
+    url: /publication/
+
   - title: "Resources"
     url: /resources/
